@@ -46,7 +46,7 @@ An Express.js application interacting with a MySQL database (`retail_store`).
 ## 🔗 Postman Collection
 
 You can access and test the full API endpoints using the shared Postman Collection:
-👉 **[Postman Collection Link](https://mf0287264-9103690.postman.co/workspace/Mohamed-Fareed's-Workspace~a4f1df83-f680-458d-86ff-f983dccad4b9/collection/52196999-a3bed940-be68-4341-92a9-37531b203f2c?action=share&creator=52196999&active-environment=52196999-35b0e4de-5cf6-45e0-8689-408ca8ea3915)**
+👉 **[Postman Collection Documentation](https://documenter.getpostman.com/view/52196999/2sBYAytUVz)**
 
 ---
 
